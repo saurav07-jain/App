@@ -3,7 +3,7 @@ import Navbar from './component/Navbar';
 import TextForm from './component/TextForm';
 import React, { useState } from 'react'
 import Alert from './component/Alert';
-import About from './component/About';
+// import About from './component/About';
 // import {
 //   BrowserRouter as Router,
 //   Routes,
@@ -55,7 +55,7 @@ function App() {
           </Routes> */}
       </div>
       {/* </Router> */}
-      <About />
+      {/* <About /> */}
 
 
     </>
